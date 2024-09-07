@@ -1,0 +1,14 @@
+{
+    "name": "alunos/aula04-09",
+    "autoload": {
+        "psr-4": {
+            "Alunos\\Aula0409\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael"
+        }
+    ],
+    "require": {}
+}
